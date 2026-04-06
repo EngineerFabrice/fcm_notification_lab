@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249076606616",
+    "project_id": "fcmnotificationlab",
+    "storage_bucket": "fcmnotificationlab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249076606616:android:c2ec52bb50e8a91c8052ed",
+        "android_client_info": {
+          "package_name": "com.fabrice.fcmnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDNIpLeByjmBnbMd-txqcRBSGkcrwh-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
